@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/val/static/css/main.c6864b64.css",
+    "main.js": "/val/static/js/main.b1aee1c4.js",
+    "static/js/488.9c92ff38.chunk.js": "/val/static/js/488.9c92ff38.chunk.js",
+    "static/media/dudu-mad.gif": "/val/static/media/dudu-mad.372830d70e151e4dbeb3.gif",
+    "static/media/dudu-cheeky-dudu-walking.gif": "/val/static/media/dudu-cheeky-dudu-walking.f192b3c8d2793fc8b1c7.gif",
+    "static/media/dudu-happy.gif": "/val/static/media/dudu-happy.d7046297ce476523e2cd.gif",
+    "static/media/bubu-dudu.gif": "/val/static/media/bubu-dudu.03dd5b69759049842289.gif",
+    "static/media/logo.svg": "/val/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/val/index.html",
+    "main.c6864b64.css.map": "/val/static/css/main.c6864b64.css.map",
+    "main.b1aee1c4.js.map": "/val/static/js/main.b1aee1c4.js.map",
+    "488.9c92ff38.chunk.js.map": "/val/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6864b64.css",
+    "static/js/main.b1aee1c4.js"
+  ]
+}
